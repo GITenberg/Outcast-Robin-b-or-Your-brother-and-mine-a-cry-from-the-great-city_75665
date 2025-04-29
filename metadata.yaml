@@ -1,5 +1,8 @@
 _repo: Outcast-Robin-b-or-Your-brother-and-mine-a-cry-from-the-great-city_75665
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75665-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Meade, L. T.
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1621
     wikipedia: https://en.wikipedia.org/wiki/L._T._Meade
 description: 'Reading ease score: 77.3 (7th grade). Fairly easy to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75665#Outcast-Robin-b-or-Your-brother-and-mine-a-cry-from-the-great-city
 edition_note: New edition
 gutenberg_bookshelf:
 - 'Browsing: Culture/Civilization/Society'
